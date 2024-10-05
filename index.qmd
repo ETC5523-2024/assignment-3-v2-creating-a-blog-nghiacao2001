@@ -60,7 +60,6 @@ For both football fans (like me) and English Premier League (EPL) fans, the comp
 ```{r}
 #| tbl-cap: "Halftime standing"
 #| label: tbl-variables
-
 full_season_stats <- function(x, teamName, resultColumn = FTR, resultPrefix = FT) {
     
     result <- enquo(resultColumn)
