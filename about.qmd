@@ -6,8 +6,15 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/nghiacao2001
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/nghia_cao_/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/nghia.cao.3762/
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+## About me
+
+Hello! I am Huu Cao, a first-year student studying Master of Business Analytics at Monash University. I have a passion for computing and coding, and I am currently exploring various aspects of data analysis throughout my studies. I am working on projects related to some interesting insights on 2021-22 Premier League Halftime. In my free time, you can find me playing billiards, going shopping or capturing photos of Melbourne's famous landscapes. I look forward to connecting with others who share my interests in coding and analyzing data. Feel free to contact me on GitHub or other social networks!
