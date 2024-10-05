@@ -119,6 +119,7 @@ From @tbl-variables, it is clear that Liverpool comes out on top, indicating tha
 ```{r fig.pos='H'}
 #| fig-cap: "Changes in league position if matches only lasted 45 minutes"
 #| label: fig-bar1
+
 full_league_table <- tibble()
 
 for(team in unique(soccer$HomeTeam)){
