@@ -1,0 +1,7 @@
+---
+title: "Home"
+image: pic.jpg
+about:
+  template: jolla
+---
+Welcome to my blog!

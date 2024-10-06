@@ -5,6 +5,7 @@ website:
   title: "Nghia Cao's blogS"
   navbar:
     right:
+      - home.qmd
       - about.qmd
       - icon: github
         href: https://github.com/nghiacao2001
