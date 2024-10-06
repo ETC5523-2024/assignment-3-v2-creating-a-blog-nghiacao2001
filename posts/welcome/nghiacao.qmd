@@ -168,7 +168,7 @@ If games had concluded at halftime, Liverpool would have won the league, two poi
 
 # References
 
-- Gower E (2022), "Who Wins the EPL if Games Ended at Halftime?", Kaggle website,
+Gower E (2022), "Who Wins the EPL if Games Ended at Halftime?", Kaggle website,
 accessed 5 October, <https://www.kaggle.com/code/evangower/who-wins-the-epl-if-games-ended-at-halftime?scriptVersionId=119060513>
 
 # A heartfelt thank you
