@@ -2,7 +2,7 @@
 title: "2021-22 Premier League Halftime insights"
 author: "Nghia Cao"
 date: "2024-10-06"
-categories: [news]
+categories: [Sport]
 ---
 
 ![](thumbnail.jpg)
